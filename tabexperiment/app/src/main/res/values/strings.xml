@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabbed interface example</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">Tab #1 selected.</string>
+    <string name="tab_2">Tab #2 selected.</string>
+    <string name="tab_3">Tab #3 selected.</string>
+    <string name="tab_label1">First</string>
+    <string name="tab_label2">Second</string>
+    <string name="tab_label3">Third</string>
+</resources>
